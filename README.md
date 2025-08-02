@@ -4,9 +4,9 @@
 <br>
 ➡️ VISTAS PREVIAS:<br>
 <p align="left">
-  <img src="https://i.imgur.com/miWtf7W.jpeg" width="100"/><br>
-  <img src="https://i.imgur.com/2GPbfso.jpeg" width="100"/><br>
-  <img src="https://i.imgur.com/urKb7La.jpeg" width="100"/>
+  <img src="https://i.imgur.com/miWtf7W.jpeg" width="300"/><br>
+  <img src="https://i.imgur.com/2GPbfso.jpeg" width="300"/><br>
+  <img src="https://i.imgur.com/urKb7La.jpeg" width="300"/>
 </p>
 
 
