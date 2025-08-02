@@ -1,16 +1,20 @@
-<h1 align="center"> CONVERSOR DE MONEDAS :heavy_dollar_sign: </h1>
-:interrobang: ¿Qué hace?<br>
-:small_blue_diamond: Es una pequeña aplicación backend desarrollada en java para convertir algunas monedas (ARS/BRL/EUR) a USD y viceversa. Con ella trato de impregnar conocimiento sobre manejo de las APIs en JAVA y algunos conceptos básicos de POO
-<br>
-➡️ VISTAS PREVIAS:<br>
-<p align="left">
-  <img src="https://i.imgur.com/miWtf7W.jpeg" width="300"/><br>
-  <img src="https://i.imgur.com/2GPbfso.jpeg" width="300"/><br>
-  <img src="https://i.imgur.com/urKb7La.jpeg" width="300"/>
+<h1 align="center">CONVERSOR DE MONEDAS 💲</h1>
+<hr>
+
+<h3>❗ ¿Qué hace?</h3>
+<ul>
+  <li> Es una pequeña aplicación backend desarrollada en <strong>Java</strong> para convertir algunas monedas (ARS / BRL / EUR) a USD y viceversa. Con ella trato de impregnar conocimiento sobre manejo de las <strong>APIs en JAVA</strong> y algunos conceptos básicos de <strong>POO</strong>.</span></li>
+</ul>
+
+<h3>➡️ VISTAS PREVIAS:</h3>
+<p>
+  <img src="https://i.imgur.com/miWtf7W.jpeg" alt="Vista previa 1" width="350"><br>
+  <img src="https://i.imgur.com/2GPbfso.jpeg" alt="Vista previa 2" width="350"><br>
+  <img src="https://i.imgur.com/urKb7La.jpeg" alt="Vista previa 3" width="350">
 </p>
 
-
-<br>
-✅ Tecnologías utilizadas<br>
-- Java 21.0.6
+<h3>✅ Tecnologías utilizadas</h3>
+<ul>
+  <li><span>Java 21.0.6</span></li>
+</ul>
 
