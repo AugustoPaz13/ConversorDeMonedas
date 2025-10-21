@@ -7,11 +7,6 @@
 </ul>
 
 <h3>➡️ VISTAS PREVIAS:</h3>
-<p>
-  <img src="https://i.imgur.com/miWtf7W.jpeg" alt="Vista previa 1" width="350"><br>
-  <img src="https://i.imgur.com/2GPbfso.jpeg" alt="Vista previa 2" width="350"><br>
-  <img src="https://i.imgur.com/urKb7La.jpeg" alt="Vista previa 3" width="350">
-</p>
 
 <h3>✅ Tecnologías utilizadas</h3>
 <ul>
